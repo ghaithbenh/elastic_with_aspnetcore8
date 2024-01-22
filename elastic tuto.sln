@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elastic tuto", "elastic tuto\elastic tuto.csproj", "{81CD8B1B-F7D0-41A1-A4F9-C942851E48ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81CD8B1B-F7D0-41A1-A4F9-C942851E48ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CD8B1B-F7D0-41A1-A4F9-C942851E48ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81CD8B1B-F7D0-41A1-A4F9-C942851E48ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CD8B1B-F7D0-41A1-A4F9-C942851E48ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD506FD-A377-49C7-B1E1-ACD6055D35B7}
+	EndGlobalSection
+EndGlobal
